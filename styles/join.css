@@ -8,7 +8,7 @@
 #get-involved{
     display: flex;
     align-items: center;
-    height: 110vh;
+    height: 135vh;
     background-color:rgb(221, 243, 214);
     flex-direction: column;
 }
@@ -51,8 +51,8 @@
 
 #volunteer-btn{
     margin-top: 2vh;
-    width: 5vw;
-    height: 2vw;
+    width: 8vw;
+    height: 3vw;
     text-transform: uppercase;
     font-size: 1rem;
     border: 2px solid white;
@@ -74,8 +74,8 @@
 
 #chapter-btn{
     margin-top: 2vh;
-    width: 5vw;
-    height: 2vw;
+    width: 8vw;
+    height: 3vw;
     text-transform: uppercase;
     font-size: 1rem;
     border: 2px solid white;
