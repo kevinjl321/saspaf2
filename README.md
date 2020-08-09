@@ -1,7 +1,5 @@
 # SASPAF
-
 Website for nonprofit organization, SASPAF.
----
-Check it out here: https://kevinjl321.github.io/saspaf/ 
+ARCHIVED. Contains static HTML/CSS/JS for SASPAF. Not working on anymore. Check out our new and updated repository: https://github.com/kevinjl321/saspaf
 
 
